@@ -327,23 +327,23 @@ ul#nav li.current a { color: #F06000; }
 
 .net {
   	width: 90%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: net 2s ease;
+  	-webkit-animation: net 2s ease;
 }
 .javascript {
   	width: 90%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
 }
 .wcf {
   	width: 80%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: wcf 2s ease;
+  	-webkit-animation: wcf 2s ease;
 }
 .react {
   	width: 50%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: react 2s ease;
+  	-webkit-animation: react 2s ease;
 }
 .html5 {
   	width: 70%;
@@ -352,8 +352,18 @@ ul#nav li.current a { color: #F06000; }
 }
 .sql {
   	width: 70%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: sql 2s ease;
+  	-webkit-animation: sql 2s ease;
+}
+.rpa {
+   width: 60%;
+   -moz-animation: rpa 2s ease;
+   -webkit-animation: rpa 2s ease;
+}
+.csm {
+   width: 70%;
+   -moz-animation: csm 2s ease;
+   -webkit-animation: csm 2s ease;
 }
 
 @-moz-keyframes photoshop {
